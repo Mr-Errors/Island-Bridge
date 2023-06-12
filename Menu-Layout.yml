@@ -8,6 +8,26 @@
 #                             Author: MrErrors                           #
 #                              Version: 1.0.1                            #
 #------------------------------------------------------------------------#
+Title:
+Rows:
+Back:
+	slot: 48
+    name: "Back"
+    lore:
+    	- ""
+        - ""
+Next:
+	slot: 50
+    name: "Next"
+    lore:
+    	- ""
+        - ""
+Player:
+	slot: 49
+    name: "{player}"
+    lore:
+    	- ""
+        - " {unlocked}"
 Shop-Category: 
     
     #██╗░██████╗██╗░░░░░░█████╗░███╗░░██╗██████╗░░██████╗#
