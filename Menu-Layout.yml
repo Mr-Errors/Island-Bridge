@@ -32,7 +32,6 @@ Player:
     lore:
     	- ""
         - " {unlocked}"
-	
 Perm-Yes:
 - ""
 - ""
