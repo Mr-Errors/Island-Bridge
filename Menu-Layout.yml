@@ -8,23 +8,26 @@
 #                             Author: MrErrors                           #
 #                              Version: 1.0.1                            #
 #------------------------------------------------------------------------#
-Locked-NBT:
+Locked-NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIzZWFlZmJkNTgxMTU5Mzg0Mjc0Y2RiYmQ1NzZjZWQ4MmViNzI0MjNmMmVhODg3MTI0ZjllZDMzYTY4NzJjIn19fQ==
 Title:
 Rows:
 Back:
-	slot: 48
+    slot: 48
+    nbt: 
     name: "Back"
     lore:
     	- ""
         - ""
 Next:
-	slot: 50
+    slot: 50
+    nbt:
     name: "Next"
     lore:
     	- ""
         - ""
 Player:
-	slot: 49
+    slot: 49
+    nbt: 
     name: "{player}"
     lore:
     	- ""
