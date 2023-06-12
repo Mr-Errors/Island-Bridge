@@ -19,23 +19,23 @@ Shop-Category:
     Islands:
         Page-1:
             1:
-                material: Iron Sword
+                material: PLAYER_HEAD
                 nbt:
                 slot: 10
                 permission: islandbridge.japan
                 name: ""
                 schematic: ""
             2:
-                material: Iron Sword
+                material: PLAYER_HEAD
                 nbt:
                 slot: 10
-                permission: islandbridge.japan
+                permission: islandbridge.winter
                 name: ""
                 schematic: ""
             3:
-                material: Iron Sword
+                material: PLAYER_HEAD
                 nbt:
                 slot: 10
-                permission: islandbridge.japan
+                permission: islandbridge.beach
                 name: ""
                 schematic: ""
