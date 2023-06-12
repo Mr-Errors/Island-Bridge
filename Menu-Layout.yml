@@ -16,22 +16,22 @@ Back:
     nbt: 
     name: "Back"
     lore:
-    	- ""
-        - ""
+    - ""
+    - ""
 Next:
     slot: 50
     nbt:
     name: "Next"
     lore:
-    	- ""
-        - ""
+    - ""
+    - ""
 Player:
     slot: 49
     nbt: 
     name: "{player}"
     lore:
-    	- ""
-        - " {unlocked}"
+    - ""
+    - " {unlocked}"
 Perm-Yes:
 - ""
 - ""
