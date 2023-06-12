@@ -50,22 +50,29 @@ Shop-Category:
         Page-1:
             1:
                 material: PLAYER_HEAD
-                nbt:
+                nbt: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk1ZDM3OTkzZTU5NDA4MjY3ODQ3MmJmOWQ4NjgyMzQxM2MyNTBkNDMzMmEyYzdkOGM1MmRlNDk3NmIzNjIifX19
                 slot: 10
-                permission: islandbridge.japan
+                permission: islandbridge.default
                 name: ""
                 schematic: ""
             2:
                 material: PLAYER_HEAD
-                nbt:
-                slot: 10
-                permission: islandbridge.winter
+                nbt: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM2OGJkM2Q2NjYwMzYyMTJlZTFkMWIxYzM5ZWQ4NWI4ZmY3ZDhiNTdhNjVkOGEyYjkxNDg5YTc1MGMyYmUifX19
+                slot: 11
+                permission: islandbridge.japan
                 name: ""
                 schematic: ""
             3:
                 material: PLAYER_HEAD
-                nbt:
-                slot: 10
+                nbt: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3NGMyZTRjMGIyMjJlNDJlOGNkZGYzYmE4ZjZiNTQ2YzUxMDNhZGEyYzljMTU0NjFhYmMzZmEzZjQyNTA5In19fQ==
+                slot: 12
+                permission: islandbridge.winter
+                name: ""
+                schematic: ""
+            4:
+                material: PLAYER_HEAD
+                nbt: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNjMmYxYzVkMmM4ZjBlMzM3MzBjMTRkY2ExYzFkMWUxYWJkODU5NmIwODM5ZDY3MzhkMThmNDY0MzJiNmZhNiJ9fX0=
+                slot: 13
                 permission: islandbridge.beach
                 name: ""
                 schematic: ""
